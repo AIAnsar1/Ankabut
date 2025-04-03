@@ -3,3 +3,5 @@ venv
 .vscode
 .idea
 .trae
+.DS_Store
+__pycahe__
