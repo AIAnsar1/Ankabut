@@ -42,7 +42,7 @@ BANNER = """\033[01;33m\
        
       .o.                   oooo                   .o8                       .   
      .888.                  `888                  "888                     .o8   
-    .8"888.     ooo. .oo.    888  oooo   .oooo.    888oooo.  oooo  oooo  .o888oo 
+    .8"888.      ooo. .oo.   888  oooo   .oooo.    888oooo.  oooo  oooo  .o888oo 
    .8' `888.    `888P"Y88b   888 .8P'   `P  )88b   d88' `88b `888  `888    888   
   .88ooo8888.    888   888   888888.     .oP"888   888   888  888   888    888   
  .8'     `888.   888   888   888 `88b.  d8(  888   888   888  888   888    888 . 
@@ -51,7 +51,7 @@ o88o     o8888o o888o o888o o888o o888o `Y888""8o  `Y8bod8P'  `V88V"V8P'   "888"
                         [ Powered By Tawheed Network]                                                          
                                                                                  
 
-""" % (TYPE_COLORS.get(TYPE, 31), VERSION_STRING.split('/')[-1], SITE)
+  {(TYPE_COLORS.get(TYPE, 31), VERSION_STRING.split('/')[-1], SITE)} """
 
 
 
