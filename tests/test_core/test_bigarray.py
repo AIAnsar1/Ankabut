@@ -1,7 +1,7 @@
 import os, tempfile, pytest
 
 from core.exceptions import AnkabSystemException
-from support.bigarr import BigArray
+from core.bigarr import BigArray
 
 
 """

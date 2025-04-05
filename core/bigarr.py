@@ -2,8 +2,8 @@
 import os, sys, zlib, itertools, tempfile, pickle
 
 
-from core.exceptions import AnkabSystemException
-from core.compat import xrange
+from .exceptions import AnkabSystemException
+from .compat import xrange
 from .enums import MKStempPrefix
 from .settings import BIGARRAY_CHUNK_SIZE, BIGARRAY_COMPRESS_LEVEL
 
