@@ -1,6 +1,6 @@
 import logging, re, sys
 
-from support.enums import CustomLogging
+from .enums import CustomLogging
 
 
 
